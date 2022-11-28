@@ -4,3 +4,12 @@ body{
     text-align: center;
     font-family: cursive;
 }
+
+.main-text{
+    margin-top: 200px;
+    font-size: 200px;
+    font-weight: bold;
+    background-image: url(./bg.jpg);
+    color: transparent;
+    -webkit-background-clip: text;
+}
